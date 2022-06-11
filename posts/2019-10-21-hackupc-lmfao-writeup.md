@@ -23,7 +23,7 @@ header:
 
 Last week I attended the [HackUPC](https://hackupc.com/) at Barcelona. They were running a 24h CTF-like competition with different challenges focused on algorithms, programming and some hacking. I wasn't planning to play, but some friends got me involved in the last moment and I somehow managed to win the competition by completing all challenges and getting max score, along with Yuva.
 
-![The Game - Hall of Fame](/assets/images/posts/TheGame_HOF.jpg){: .align-center}
+![The Game - Hall of Fame](/assets/images/posts/TheGame_HOF.jpg)
 
 Here you will find my writeup for the *LMFAO* steganography challenge.
 
@@ -178,5 +178,6 @@ Now if we just run the code `python lmfao.py` it will produce the resulting imag
     <a href="/assets/images/posts/LMFAO_solved.png"><img src="/assets/images/posts/LMFAO_solved.png"></a>
     <figcaption>Recovered original image</figcaption>
 </figure>
+
 As we can see, we get the solution `flag{se_biene_bien_duro}` 
 
